@@ -19,5 +19,3 @@
 9. 保存权重
 10. 使用混淆矩阵和准确度进行评估 
 11. 实时测试。
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenjiawei1024&count_private=true)
